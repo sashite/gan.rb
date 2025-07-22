@@ -6,7 +6,7 @@
 # with the Actor class using symbol-based attributes and the minimal module interface.
 # Tests integration between SNN and PIN components with case consistency validation.
 
-require_relative "lib/sashite-gan"
+require_relative "lib/sashite-qpi"
 require "set"
 
 # Helper function to run a test and report errors

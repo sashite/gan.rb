@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sashite-gan (5.0.0)
+    sashite-qpi (5.0.0)
       sashite-pin (~> 2.0.2)
       sashite-snn (~> 1.1.1)
 
@@ -103,7 +103,7 @@ DEPENDENCIES
   rubocop-performance
   rubocop-rake
   rubocop-thread_safety
-  sashite-gan!
+  sashite-qpi!
   simplecov
   yard
 
